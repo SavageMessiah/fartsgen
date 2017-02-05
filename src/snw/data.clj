@@ -42,7 +42,7 @@
              :hd-until 9
              :start-hd 1
              :extra-hp 1}
-    :spells {:druid 
+    :spells {:druid
              {1  [1]
               2  [2 1]
               3  [3 1]
@@ -278,7 +278,7 @@
        "Shape Change"
        "Time Stop"
        "Wish"]}
-  :druid 
+  :druid
   {1 ["Detect Magic"
       "Detect Snares & Pits"
       "Faerie Fire"

@@ -35,7 +35,7 @@
     {:hd hds
      :hp hps}))
 
-(defn hd&hp 
+(defn hd&hp
   "Calculates the character's HD and then rolls HP"
   [{{health :health} :class
     level :level
